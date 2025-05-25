@@ -1,6 +1,6 @@
 import path from 'path';
 import fs from 'fs';
-import Order from '../models/order.js';
+import Order from '../models/Order.js';
 import { sendApprovalEmail } from '../services/emailOrdersService.js';
 
 // Crear un nuevo pedido
