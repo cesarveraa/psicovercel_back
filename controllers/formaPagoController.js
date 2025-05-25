@@ -1,4 +1,4 @@
-import FormaPago from "./../models/FormaPago.js";
+import FormaPago from "./../models/formaPago.js";
 import path from 'path';
 import fs from 'fs';
 
