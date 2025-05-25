@@ -1,4 +1,4 @@
-import mongoose from 'mongoose';
+import FormaPago from "../models/formaPago.js";import mongoose from 'mongoose';
 const { Schema } = mongoose;
 
 const formaPagoSchema = new Schema(
